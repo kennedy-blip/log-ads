@@ -1,1 +1,1 @@
-npm run bui
+npm run buil

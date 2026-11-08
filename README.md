@@ -1,1 +1,1 @@
-npm run bu
+npm run bui

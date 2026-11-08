@@ -1,1 +1,1 @@
-npm run build inst
+npm run build insta

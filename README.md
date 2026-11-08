@@ -1,1 +1,1 @@
-npm run build insta
+npm run build instal

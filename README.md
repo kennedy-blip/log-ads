@@ -1,1 +1,1 @@
-npm run build in
+npm run build ins
